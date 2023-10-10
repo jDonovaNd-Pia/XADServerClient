@@ -1,0 +1,7 @@
+C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\bin\Debug\XADServeiClient.exe.config
+C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\bin\Debug\XADServeiClient.exe
+C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\bin\Debug\XADServeiClient.pdb
+C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.csproj.AssemblyReference.cache
+C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.csproj.CoreCompileInputs.cache
+C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.exe
+C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.pdb
