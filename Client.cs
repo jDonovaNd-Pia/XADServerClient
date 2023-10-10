@@ -22,6 +22,7 @@ namespace XADServeiClient
                     string mensaje = Console.ReadLine();
                     Console.WriteLine("Out: " + mensaje);
                     sw.WriteLine(mensaje);
+                    sw.Flush();
                     leyendoOescribiendo = false;
                 } else {
                     Console.WriteLine("In: " + sr.ReadLine());
