@@ -1,7 +1,8 @@
-C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\bin\Debug\XADServeiClient.exe.config
-C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\bin\Debug\XADServeiClient.exe
-C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\bin\Debug\XADServeiClient.pdb
-C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.csproj.AssemblyReference.cache
-C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.csproj.CoreCompileInputs.cache
-C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.exe
-C:\Users\usuari\Desktop\Visual Studio\C#\XArDGitClientServer\obj\Debug\XADServeiClient.pdb
+
+D:\M19 - Servicios y acceso a internet\XADServeiClient\obj\Debug\XADServeiClient.csproj.AssemblyReference.cache
+D:\M19 - Servicios y acceso a internet\XADServeiClient\obj\Debug\XADServeiClient.csproj.CoreCompileInputs.cache
+D:\M19 - Servicios y acceso a internet\XADServeiClient\bin\Debug\XADServeiClient.exe.config
+D:\M19 - Servicios y acceso a internet\XADServeiClient\bin\Debug\XADServeiClient.exe
+D:\M19 - Servicios y acceso a internet\XADServeiClient\bin\Debug\XADServeiClient.pdb
+D:\M19 - Servicios y acceso a internet\XADServeiClient\obj\Debug\XADServeiClient.exe
+D:\M19 - Servicios y acceso a internet\XADServeiClient\obj\Debug\XADServeiClient.pdb
